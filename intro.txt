@@ -13,3 +13,11 @@ Kỹ năng:
 1. Lập trình C#, Python
 2. Làm việc nhóm hiệu quả
 3. Quản lý thời gian tốt
+
+
+Kế hoạch học tập:
+- Ôn tập kiến thức Git và thực hành mỗi ngày.
+- Học thêm về quản lý dự án với GitHub.
+- Thực hiện các bài lab và bài tập nhóm.
+- Theo dõi tiến độ học tập hàng tuần.
+- Nâng cao kỹ năng sử dụng command line.
