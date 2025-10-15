@@ -14,4 +14,10 @@ Kế hoạch học tập trong 1 tuần:
 - Hoàn thiện tính năng tìm kiếm.
 - Viết tài liệu người dùng.
 - Kiểm thử và tối ưu tốc độ tải trang.
+<<<<<<< Updated upstream
+=======
+- Cập nhật tài liệu API.
+- Kiểm thử toàn bộ chức năng.
+
+>>>>>>> Stashed changes
 
