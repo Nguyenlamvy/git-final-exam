@@ -1,5 +1,7 @@
 Hello, this is Nguyễn Lam Vy
-Tôi là Nguyễn Văn A, sinh viên năm 3 ngành Công nghệ thông tin.
+Xin chào, tôi là Nguyễn Lam Vy
+Conflict resolved on 15/10/2025
+
 Tôi yêu thích lập trình và khám phá các công nghệ mới.
 Tôi luôn cố gắng học hỏi để nâng cao kỹ năng bản thân.
 Mục tiêu của tôi là trở thành một lập trình viên giỏi và có ích cho xã hội.
