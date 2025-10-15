@@ -1,0 +1,6 @@
+Tính năng mới:
+1. Cho phép người dùng đăng nhập bằng tài khoản Google.
+2. Lưu lịch sử hoạt động của người dùng.
+3. Tự động sao lưu dữ liệu định kỳ.
+4. Gửi email thông báo khi có thay đổi.
+5. Hiển thị biểu đồ thống kê hoạt động.
