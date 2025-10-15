@@ -1,0 +1,23 @@
+Giới thiệu cá nhân:
+Tôi là Nguyễn Văn A, sinh viên năm 3 ngành Công nghệ thông tin.
+Tôi yêu thích lập trình và khám phá các công nghệ mới.
+Tôi luôn cố gắng học hỏi để nâng cao kỹ năng bản thân.
+Mục tiêu của tôi là trở thành một lập trình viên giỏi và có ích cho xã hội.
+
+Sở thích:
+1. Đọc sách công nghệ
+2. Chơi thể thao
+3. Du lịch
+
+Kỹ năng:
+1. Lập trình C#, Python
+2. Làm việc nhóm hiệu quả
+3. Quản lý thời gian tốt
+
+
+Kế hoạch học tập:
+- Ôn tập kiến thức Git và thực hành mỗi ngày.
+- Học thêm về quản lý dự án với GitHub.
+- Thực hiện các bài lab và bài tập nhóm.
+- Theo dõi tiến độ học tập hàng tuần.
+- Nâng cao kỹ năng sử dụng command line.
