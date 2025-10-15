@@ -1,3 +1,5 @@
 Đây là file online.txt
 Tạo trực tiếp trên GitHub
 Dành cho bài kiểm tra Git Final Exam
+Cập nhật từ máy local
+Bài tập Git phần 7 hoàn thành
